@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DeliveryManager" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAICAAAAgAAAAAAAAAAQACAIABAACJRAAAAAAABEA=</HashCode>
+      <FileName>Assets\Scripts\DeliveryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInput" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABACCAAAAEAAAACAAAAEAAAABAAAABYAAAAAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\GameInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenGameManager" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAISBCAAAAAAAECAIAAHEBAAAAAGQAAAAACIAEA=</HashCode>
+      <FileName>Assets\Scripts\KitchenGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KitchenObject" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAQAAAAEAAAAACCEAAAAAEAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\KitchenObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Loader" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAEAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoaderCallback" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoaderCallback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LookAtCamera" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LookAtCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MusicManager" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAIAAAAAAAAGAAAQAAAAAACAEA=</HashCode>
+      <FileName>Assets\Scripts\MusicManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlateCompleteVisual" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAABAAAAABAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\PlateCompleteVisual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlateKitchenObject" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAKAAgAAAACAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlateKitchenObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQCAAkAEKCBAAAAAAAACAABAjAAAAAAQAEAACARAOA=</HashCode>
+      <FileName>Assets\Scripts\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PlayerAnimator" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAgAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerAnimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerSounds" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerSounds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResetStaticDataManager" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\ResetStaticDataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectedCounterVisual" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEEAAAAAABAAIEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SelectedCounterVisual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAKABEAAAARAIAAgCAAAACAAIQAAAAIAGAEA=</HashCode>
+      <FileName>Assets\Scripts\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeliveryManagerSingleUI" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAABAAAAAAAAAARAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\DeliveryManagerSingleUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeliveryManagerUI" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAIDACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\DeliveryManagerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeliveryResultUI" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgQAAAAPIAEAAAAAAAAAAAAAAAAAAAAAAEAAAIAkA=</HashCode>
+      <FileName>Assets\Scripts\UI\DeliveryResultUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverUI" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAAAAEAAAIAAAAEAEAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\GameOverUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePauseUI" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADAAAAAAEAAAAIAAAQAEAAEAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\GamePauseUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamePlayingClockUI" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\GamePlayingClockUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameStartCountdownUI" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAABCAAAAAgEAgAAAAAAAAEAAAAAAAAAAAEAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\GameStartCountdownUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuExtrasUI" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\MainMenuExtrasUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenuUI" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\MainMenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OptionsUI" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhAZCAoAAigIQgACFBAABAABgAAFAAGAYEAASBEDAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\OptionsUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlateIconsSingleUI" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\PlateIconsSingleUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlateIconsUI" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIAACAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQEA=</HashCode>
+      <FileName>Assets\Scripts\UI\PlateIconsUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProgressBarUI" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACCAAAAAAEAAAEAACAAAEAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\ProgressBarUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoveBurnFlashingBarUI" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAAAAAAACABAAAAAAAAACAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\UI\StoveBurnFlashingBarUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoveBurnWarningUI" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAACAAAAAAEAAAACAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UI\StoveBurnWarningUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TutorialUI" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIABSAAAAgAEAABAAAAAAAEABAAABAgAKCAAJA=</HashCode>
+      <FileName>Assets\Scripts\UI\TutorialUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCounter" Collapsed="true">
+    <Position X="7.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAABAAAAAAAACAAAISCAAAAAQAAAAQAAACA=</HashCode>
+      <FileName>Assets\Scripts\Counters\BaseCounter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClearCounter" Collapsed="true">
+    <Position X="5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\ClearCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerCounter" Collapsed="true">
+    <Position X="9.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\ContainerCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ContainerCounterVisual" Collapsed="true">
+    <Position X="9.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAACAAAAAAAAAAAAAAAAAAAAAAABAABAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Counters\ContainerCounterVisual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CuttingCounter" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAACAABAAAAAAABAAAAIgAgAAAAQAAABQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\CuttingCounter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CuttingCounterVisual" Collapsed="true">
+    <Position X="11.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAAIAAAYAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Counters\CuttingCounterVisual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeliveryCounter" Collapsed="true">
+    <Position X="11.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Counters\DeliveryCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatesCounter" Collapsed="true">
+    <Position X="14" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAABAAAAAAAAAEAAAIAAAAQABAAAAAIAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\PlatesCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlatesCounterVisual" Collapsed="true">
+    <Position X="13" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAABACAAAAAAAAACAAAAAECAAAAAAAgAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Counters\PlatesCounterVisual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoveCounter" Collapsed="true">
+    <Position X="7.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAADCAAACBAAAABACAIIAAgAAAFAAACKAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\StoveCounter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="StoveCounterSound" Collapsed="true">
+    <Position X="9.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAACAAAAAAIAQAACAAAAAAEAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Counters\StoveCounterSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StoveCounterVisual" Collapsed="true">
+    <Position X="11.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAACAAAAAAAABAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\StoveCounterVisual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrashCounter" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Counters\TrashCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IHasProgress" Collapsed="true">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IHasProgress.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IKitchenObjectParent" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAAAAAABAAAAAAAACAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\IKitchenObjectParent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
