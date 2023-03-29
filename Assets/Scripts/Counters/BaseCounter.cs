@@ -13,11 +13,10 @@ public class BaseCounter : NetworkBehaviour, IKitchenObjectParent {
         OnAnyObjectPlacedHere = null;
     }
 
-
     [SerializeField] private Transform counterTopPoint;
 
-
-    private KitchenObject kitchenObject;
+    [Header("For already placed objects")]
+    [SerializeField] private KitchenObject kitchenObject;
 
 
     public virtual void Interact(Player player) {
@@ -27,7 +26,6 @@ public class BaseCounter : NetworkBehaviour, IKitchenObjectParent {
     public virtual void InteractAlternate(Player player) {
         //Debug.LogError("BaseCounter.InteractAlternate();");
     }
-
 
     public Transform GetKitchenObjectFollowTransform() {
         return counterTopPoint;
